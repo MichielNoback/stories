@@ -1,6 +1,8 @@
 ---
 title: "Snoeshaan"
 date: 2023-05-05
+author: Michiel Noback
+description: Een kort fantasy verhaal, of beter het begin van een langer verhaal.
 ---
 
  ‘Ik vind het gewoon smerig.’ De mond van Felicity suggereert dat er zich daadwerkelijk iets weerzinwekkends in haar mond bevindt, zoals wanneer je op het terras een slok wijn neemt en net te laat ziet dat er een verdronken bromvlieg naar binnen glijdt.  
