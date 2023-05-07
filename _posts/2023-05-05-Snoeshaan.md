@@ -2,10 +2,11 @@
 title: "Snoeshaan"
 date: 2023-05-05
 author: Michiel Noback
-description: Een kort fantasy verhaal, of beter het begin van een langer verhaal.
 ---
 
- ‘Ik vind het gewoon smerig.’ De mond van Felicity suggereert dat er zich daadwerkelijk iets weerzinwekkends in haar mond bevindt, zoals wanneer je op het terras een slok wijn neemt en net te laat ziet dat er een verdronken bromvlieg naar binnen glijdt.  
+> Een kort licht absurdistisch verhaal.
+
+‘Ik vind het gewoon smerig.’ De mond van Felicity suggereert dat er zich daadwerkelijk iets weerzinwekkends in haar mond bevindt, zoals wanneer je op het terras een slok wijn neemt en net te laat ziet dat er een verdronken bromvlieg naar binnen glijdt.  
 ‘Maar hij kan er zelf toch niets aan doen?’ Hermelien kijkt Felicity bezorgd aan, geschrokken over zoveel emotie rond dit onderwerp. ‘Jij bent de verbinding aangegaan. Je kan hem nu niet zomaar de rug toekeren.’  
 ‘Liefde heeft geen eeuwigheidswaarde. Dat is geneuzel van de kerk. Bij mij is dit de grens voorbij.’ Ze pakt de hotelcake van het aanrecht en een mes uit de lade en gaat aan het minuscule keukentafeltje zitten, tegenover Hermelien. Ze begint driftig plakken af te snijden.  
 ‘Maar Felis, stel je voor dat het jou zou overkomen. We weten allebei dat dat niet denkbeeldig is.’  
