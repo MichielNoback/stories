@@ -1,5 +1,5 @@
 ---
-title: Dialoog de dorpskroeg van Lutje<span class="name">Gast</span>
+title: De projectleider
 date: 2022-10-29
 author: Michiel Noback
 ---
