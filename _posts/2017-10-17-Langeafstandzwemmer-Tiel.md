@@ -4,7 +4,7 @@ date: 2017-10-17
 author: Michiel Noback
 ---
 
-> Een dialoog geschreven op Buitenkunst
+> Een toneeldialoog geschreven op Buitenkunst.
 
 <br>
 
@@ -32,7 +32,7 @@ _Morris geeft gelpakje. Tiel slurpt het leeg en gooit het weg._
 <br>
 <span class="name">Tiel</span>Zorg wel dat je zo uit beeld bent hè?  
 <span class="name">Morris</span>Hoe vaak heb ik je nou gezegd dat je lege gelletjes niet in zee moet kieperen? Ja tuurlijk, dát zou ik niet kunnen vergeten.  
-<span class="name">Tiel</span>Zie ik er niet al te geweekt uit? Zit mi9jn muts nog recht?  
+<span class="name">Tiel</span>Zie ik er niet al te geweekt uit? Zit mijn muts nog recht?  
 <span class="name">Morris</span> zwijgt  
 <span class="name">Tiel</span>Jezus, eindelijk dat record! Na al die jaren trainen, moederziel alleen. Zit ik nog op schema?  
 <span class="name">Morris</span>Moederziel alleen. Godverdomme Tiel. Wie heeft er al die jaren naast je gevaren en gezwommen? Dit is wel een beetje ónze overwinning lijkt me.  
@@ -71,17 +71,16 @@ _Tiel probeert de boot vast te pakken._
 <span class="name">Morris</span>He wat doe je nou man!?  
 <span class="name">Tiel</span>Heel even aanhaken Mor, het gaat echt niet goed.  
 <span class="name">Morris</span>Maar dan diskwalificeer je jezelf!  
-<span class="name">Tiel</span>(wanhopig) Ik kan niet meer. Kramp.  
-<span class="name">Morris</span>Jij gaat echt niet aanhaken.  _vaart verder weg_  
-<span class="name">Morris</span>Doorzwemmen jij.  
+<span class="name">Tiel</span>(_wanhopig_) Ik kan niet meer. Kramp.  
+<span class="name">Morris</span>Jij gaat echt niet aanhaken.  (_vaart verder weg_)  Doorzwemmen jij.  
 <span class="name">Tiel</span>Mor, kom op man, alsjeblieft  
 <br>
 _Morris vaart zwijgend door, afstand houdend van Tiel._  
 <br>
-<span class="name">Tiel</span>Mor, alsjeblieft, help, Mor, alsjeblieft, help, help, toe nou, ik red het niet (steeds zwakker)  
+<span class="name">Tiel</span>Mor, alsjeblieft, help, Mor, alsjeblieft, help, help, toe nou, ik red het niet (_steeds zwakker_)  
 <br>
 _Tiel gaat kopje onder. Morris vaart naar de plek waar Tiel onderging._  
 <br>
-<span class="name">Morris</span>Daar gaat je focking schema, jij narcistische klootzak.  
+<span class="name">Morris</span>(_schreeuwend tegen het nu lege wateroppervlak_) Daar gaat je focking schema, jij narcistische klootzak.  
 <br>
 _Morris keert om en vaart terug._  
