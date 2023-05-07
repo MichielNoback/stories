@@ -1,5 +1,5 @@
 ---
-title: Dialoog de dorpskroeg van Lutje<span class="name">Gast</span>
+title: Dialoog de dorpskroeg van Lutjegast
 date: 2022-10-15
 author: Michiel Noback
 ---
@@ -7,7 +7,7 @@ author: Michiel Noback
 <style type="text/css">
     .name {
     display: inline-block;
-    width: 80px;
+    width: 90px;
     font-weight: bold;
     }
 </style>

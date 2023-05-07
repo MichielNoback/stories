@@ -1,6 +1,6 @@
 ---
 title: Dialoog de dorpskroeg van Lutje<span class="name">Gast</span>
-date: 2022-10-15
+date: 2022-10-29
 author: Michiel Noback
 ---
 
