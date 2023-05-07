@@ -1,5 +1,5 @@
 ---
-title: "Snoeshaan"
+title: Snoeshaan
 date: 2023-05-05
 author: Michiel Noback
 ---
