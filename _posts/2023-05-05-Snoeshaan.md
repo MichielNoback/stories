@@ -4,7 +4,7 @@ date: 2023-05-05
 author: Michiel Noback
 ---
 
-> Een kort licht absurdistisch verhaal.
+> Een kort licht absurdistisch verhaal. Geschreven als huiswerkopdracht voor de Schrijversvakschool.
 
 ‘Ik vind het gewoon smerig.’ De mond van Felicity suggereert dat er zich daadwerkelijk iets weerzinwekkends in haar mond bevindt, zoals wanneer je op het terras een slok wijn neemt en net te laat ziet dat er een verdronken bromvlieg naar binnen glijdt.  
 ‘Maar hij kan er zelf toch niets aan doen?’ Hermelien kijkt Felicity bezorgd aan, geschrokken over zoveel emotie rond dit onderwerp. ‘Jij bent de verbinding aangegaan. Je kan hem nu niet zomaar de rug toekeren.’  

@@ -4,7 +4,7 @@ date: 2023-05-04
 author: Michiel Noback
 ---
 
-> Een kort fantasyverhaal, of misschien het begin van iets langers.
+> Een kort fantasyverhaal, of misschien het begin van iets langers. Geschreven als huiswerkopdracht voor de Schrijversvakschool.
 
 &emsp;Het lange-afstandswandelen en de tengere bouw van Hermelien hebben nog geen vriendschap gesloten. Het is nog vroeg in de middag als ze de derde pauze sinds de lunch neemt. Midden in een veldje met planten die ze nog nooit eerder heeft gezien gaat ze naast het pad zitten dat haar langs de Engelse westkust naar Felixstowe voert.  
 De vreemde planten zijn een halve meter hoog en hebben enorme rood met paarse bloemen die een zoete, weeë lucht verspreiden die bij haar een sterke associatie met de koffieshop in de straat oproepen. Ze geeft zich over aan de zalvende warmte van de zon en laat zich achterover zakken in het gras. De bodem geeft een klein trillinkje op het moment dat haar rug ermee in aanraking komt, alsof haar gewicht een minuscule aardbeving veroorzaakt. Wanneer haar achterhoofd de grond ook raakt valt ze acuut in een diepe slaap.  
