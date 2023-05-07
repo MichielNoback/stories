@@ -1,5 +1,5 @@
 ---
-title: 
+title: Monoloog Annebeth
 date: 2022-10-01
 author: Michiel Noback
 ---
